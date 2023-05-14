@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aramidebabygal
 - 👀 I’m interested in UI/UX
 - 🌱 I’m currently learning UI/UX
-- 💞️ I’m looking to collaborate on various designd
+- 💞️ I’m looking to collaborate on various designs
 - 📫 How to reach me here
 
 <!---
